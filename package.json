@@ -2,7 +2,7 @@
   "name": "@bestdon/hwolf-hello-npm",
   "description": "publish first hello npm.",
   "main": "index.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "scripts": {
     "start": "node index.js",
