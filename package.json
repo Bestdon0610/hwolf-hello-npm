@@ -1,0 +1,24 @@
+{
+  "name": "@bestdon/hwolf-hello-npm",
+  "description": "publish first hello npm.",
+  "main": "index.js",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Harry Naruto"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bestdon0610/hwolf-hello-npm"
+  },
+  "bugs": {
+    "url": "https://github.com/Bestdon0610/hwolf-hello-npm/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
